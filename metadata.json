@@ -1,0 +1,6 @@
+{
+  "name": "てきとう日和",
+  "description": "「適当」の本来の意味である『ちょうどいい塩梅』と、肩の力を抜く知恵をテーマにした、読みやすいWeb読みもの＆ゆる決めツール集。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
